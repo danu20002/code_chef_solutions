@@ -25,8 +25,9 @@ class Codechef
 		        if(a[i]!=a[i+1]){
 		            count++;
 		        }
-		        System.out.println(count+1);
+		        
 		    }
+		    System.out.println(count+1);
 		}
 	}
 }
